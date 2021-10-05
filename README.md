@@ -42,9 +42,9 @@ This is a template to tackle the competition the easy way.
 
 ### References
 
-- [anaconda install](https://www.anaconda.com/products/individual)
-- [anaconda cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
-- [anaconda find env path](https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/)
+- [Anaconda install](https://www.anaconda.com/products/individual)
+- [Anaconda cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+- [Anaconda find env path](https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/)
 - [PyCharm](https://www.jetbrains.com/lp/pycharm-anaconda/?=)
 - [Conda env on PyCharm](https://docs.anaconda.com/anaconda/user-guide/tasks/pycharm/)
 - [Jupyter Notebook](https://test-jupyter.readthedocs.io/en/latest/install.html)
