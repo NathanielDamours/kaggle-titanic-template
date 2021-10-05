@@ -86,7 +86,7 @@ git clone https://github.com/NathanielDamours/kaggle-titanic-template.git
 
 ### Anaconda
 
-> ==Deactivate conda==
+> ==Deactivate conda's environment==
 > ```
 > conda deactivate
 > ```
