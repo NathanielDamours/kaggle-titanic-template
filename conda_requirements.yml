@@ -1,0 +1,10 @@
+# This file may be used to create an environment using:
+# $ conda env create --file conda_requirements.yml
+name: env_cia_titanic
+dependencies:
+  - ipykernel
+  - jupyter
+  - joblib
+  - numpy
+  - pandas
+  - scikit-learn
