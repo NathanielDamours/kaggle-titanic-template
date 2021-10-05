@@ -49,7 +49,7 @@ This is a template to tackle the competition the easy way.
 - [Conda env on PyCharm](https://docs.anaconda.com/anaconda/user-guide/tasks/pycharm/)
 - [Jupyter Notebook](https://test-jupyter.readthedocs.io/en/latest/install.html)
 
-### Commands of the presentation
+### Commands
 
 ```
 git clone https://github.com/NathanielDamours/kaggle-titanic-template.git
