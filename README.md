@@ -62,7 +62,7 @@ conda env create --file conda_requirements.yml
 
 conda activate env_cia_titanic
 
-pip install quickda
+jupyter notebook
 
 # Venv
 
